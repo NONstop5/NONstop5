@@ -30,6 +30,5 @@ Here are some facts about me:
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" /></a>
 <a href="https://bitbucket.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bibucket" /></a>
-
 </p>
                     
