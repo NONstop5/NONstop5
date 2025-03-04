@@ -2,11 +2,12 @@
 
 Here are some facts about me:
 
-- 😎 I'm a Backend developer, but I also know and love Frontend too 
-- 🎓 As a mentor, I help students of the Hexlet online school learn PHP
-- 💬 I love writing beautiful, maintainable code with unit-tests
+- 🎓 I have a higher technical education
+- 💻 I'm a **Backend PHP** Developer, but I also know and love **Frontend** too 
+- 👨‍🏫 As a mentor, I help students of the Hexlet online school learn PHP
+- 💬 I love writing beautiful, maintainable code covered with unit tests
 - 🚭 I have no bad habits
-- 🌍  I'm based in Udomlya
+- 🌍  I'm based in Tverskaya region
 
 ### Skills 
 <p align="left">
