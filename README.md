@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Igor Ilyaguev
-### PHP Backend/Fullstack Developer & Mentor
+## PHP Backend/Fullstack Developer & Mentor
+
 Here are some facts about me:
 
 - 🎓 I have a higher technical education
@@ -9,6 +10,7 @@ Here are some facts about me:
 - 🚭 I have no bad habits
 - 🌍  I'm based in Tverskaya region
 
+<a href="https://www.github.com/NONstop5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/NONstop5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
@@ -26,6 +28,7 @@ Here are some facts about me:
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" /></a>
+<br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" /></a>
